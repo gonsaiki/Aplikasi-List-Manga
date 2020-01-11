@@ -15,6 +15,7 @@
    
 ## Screenshot Aplikasi
 
+***Tampilan screenshot dari aplikasi yang telah berhasil dijalankan***
 ### 1. Tampilan Awal
 ![Tampilan_Awal](https://i.ibb.co/PzzN2Q6/Screenshot-2020-01-11-23-15-13-762-com-example-mangaapp.jpg)
 
