@@ -1,2 +1,5 @@
-# Aplikasi List Manga
- Aplikasi android yang terdiri atas 10 list dan menampilkan detail ketika di klik
+# Aplikasi Android List Manga
+
+***Aplikasi ini dibuat dalam rangka untuk memenuhi tugas submission dicoding Membuat Aplikasi Android Untuk Pemula***
+## Fitur Aplikasi
+- Halaman Utama
