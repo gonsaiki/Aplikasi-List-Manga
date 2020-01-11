@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Manga App</string>
+    <string name="manga_desc">Deskripsi</string>
+    <string name="manga_title">Judul Manga</string>
+    <string name="about_me">About Me</string>
+    <string name="my_names">Aditya Fajri</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="mail">Email</string>
+    <string name="alamat_saat_ini">Alamat Saat Ini</string>
+    <string name="aditya_fajri_melinianto">Aditya Fajri Melinianto</string>
+    <string name="evandermaikel_gmail_com">evandermaikel@gmail.com</string>
+    <string name="yogyakarta">Yogyakarta</string>
+</resources>
