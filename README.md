@@ -24,3 +24,7 @@
 
 ### 3. Tampilan About Me
 ![alt text](https://i.ibb.co/GMPQMzx/Screenshot-2020-01-11-23-35-44-692-com-example-mangaapp.jpg)
+
+## AUTHOR
+
+**Aditya Fajri**
