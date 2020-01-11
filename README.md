@@ -14,4 +14,9 @@
    * Menampilkan **foto diri**, **nama** dan **email**.
    
 ## Screenshot Aplikasi
-![alt text](https://i.ibb.co/PzzN2Q6/Screenshot-2020-01-11-23-15-13-762-com-example-mangaapp.jpg)
+
+### Tampilan Awal
+![Tampilan_Awal](https://i.ibb.co/PzzN2Q6/Screenshot-2020-01-11-23-15-13-762-com-example-mangaapp.jpg)
+
+### Tampilan Detail Salah Satu Manga
+![alt text](https://i.ibb.co/5Wjpdj2/Screenshot-2020-01-11-23-28-12-552-com-example-mangaapp.jpg)
