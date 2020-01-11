@@ -15,8 +15,11 @@
    
 ## Screenshot Aplikasi
 
-### Tampilan Awal
+### 1. Tampilan Awal
 ![Tampilan_Awal](https://i.ibb.co/PzzN2Q6/Screenshot-2020-01-11-23-15-13-762-com-example-mangaapp.jpg)
 
-### Tampilan Detail Salah Satu Manga
+### 2. Tampilan Detail Salah Satu Manga
 ![alt text](https://i.ibb.co/5Wjpdj2/Screenshot-2020-01-11-23-28-12-552-com-example-mangaapp.jpg)
+
+### 3. Tampilan About Me
+![alt text](https://i.ibb.co/GMPQMzx/Screenshot-2020-01-11-23-35-44-692-com-example-mangaapp.jpg)
