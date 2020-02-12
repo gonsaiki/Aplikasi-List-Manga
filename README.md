@@ -1,28 +1,29 @@
-# Aplikasi Android List Manga
+# Manga List Application (Android)
 
-***Merupakan sebuah aplikasi yang berfungsi untuk menampilkan list dari beberapa manga top seller jepang menggunakan konsep recycler view***
-## Fitur Aplikasi
+***Display 10 lists of Top Selling Manga on Japan in android application. I use android studio to make this application, with java language by implementing list and recycler view***
 
-1. **Halaman Utama**
-   * Menampilkan **gambar** dan **informasi** dalam format **List** dengan jumlah minimal **10 item**.
-   * Memunculkan **halaman detail** ketika salah satu item di tekan.
-   
-2. **Halaman Detail**
-   * Menampilkan gambar dan informasi pada **halaman detail**.
-   
-3. **Halaman Detail**
-   * Menampilkan **foto diri**, **nama** dan **email**.
-   
-## Screenshot Aplikasi
+## Features
 
-***Tampilan screenshot dari aplikasi yang telah berhasil dijalankan***
-### 1. Tampilan Awal
+1. **Main Menu**
+   * Display **circled image** dan **some information** in **List** format.
+   * Display the **detail page** if one of the item is clicked.
+   
+2. **Detail Page**
+   * Display full image and full information.
+   
+3. **About**
+   * Display **my photo**, **my nama** and **email**.
+   
+## Screenshot
+
+***Screenshots when application starts***
+### 1. Main Menu
 ![Tampilan_Awal](https://i.ibb.co/PzzN2Q6/Screenshot-2020-01-11-23-15-13-762-com-example-mangaapp.jpg)
 
-### 2. Tampilan Detail Salah Satu Manga
+### 2. Detail Page
 ![alt text](https://i.ibb.co/5Wjpdj2/Screenshot-2020-01-11-23-28-12-552-com-example-mangaapp.jpg)
 
-### 3. Tampilan About Me
+### 3. About Me
 ![alt text](https://i.ibb.co/GMPQMzx/Screenshot-2020-01-11-23-35-44-692-com-example-mangaapp.jpg)
 
 ## AUTHOR
